@@ -14,9 +14,12 @@ Working on this project has helped me to showcase my ability to analyse critical
 - For some that are no longer with the company, they were taken out of the database.
 - Some departments are indicated as “NULL”, such were taken out as well.
 
+the company’s 
+HR data 
 
+The dataset adopted was PALMORA-GROUP-HR data. [Download Here] 
 
-The dataset adopted contains information scraped from Amazon product pages, including: 
+contains information scraped from Amazon product pages, including: 
 - Product details: name, category, price, discount, and ratings 
 - Customer engagement: user reviews, titles, and content 
 - Each row represents a unique product, with aggregated reviewer data stored as comma-separated values 
