@@ -14,9 +14,6 @@ Working on this project has helped me to showcase my ability to analyse critical
 - For some that are no longer with the company, they were taken out of the database.
 - Some departments are indicated as “NULL”, such were taken out as well.
 
-the company’s 
-HR data 
-
 The dataset adopted was PALMORA-GROUP-HR data. [Download Here] ([Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21091630/Palmoria.Group.Bonus.Rules.xlsx)
 ) , (https://github.com/user-attachments/files/21091644/Palmoria.Group.emp-data.csv)
 )
@@ -45,10 +42,11 @@ Using the TRanformation tools in Power BI Desktop, answers were provided for the
  - Total amount to be paid out per region and company-wide
 
 # Results
-**N.B: The results for each questions stated above are contained in the AMAZON zIP Folder attached to this project.**
-[AMAZON.zip](https://github.com/user-attachments/files/21091149/AMAZON.zip)
+**N.B: The results for each questions stated above are contained in the PALMORA ZIP Folder attached to this project.**
+[PALMORIA.zip](https://github.com/user-attachments/files/21091758/PALMORIA.zip)
 
-Using the cleaned dataset and pivot outputs, an interactive visual dashboard was built which summarises the results of each pivoting process on the dataset for this project. A snapshot of the Dashboard is shown below:
+
+Using the cleaned dataset and pivot outputs, an interactive visual model / dashboard was built which summarises the results of each pivoting process on the dataset for this project. A snapshot of the Dashboard is shown below:
 ![Dashboard](https://github.com/user-attachments/assets/1d0bd6c8-8845-44af-b0f0-60bca4758068)
 
 # Key Insights from Dashboard Analysis
