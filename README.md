@@ -21,37 +21,28 @@ The dataset adopted was PALMORA-GROUP-HR data. [Download Here] ([Palmoria Group 
 ) , (https://github.com/user-attachments/files/21091644/Palmoria.Group.emp-data.csv)
 )
 
-contains information scraped from Amazon product pages, including: 
-- Product details: name, category, price, discount, and ratings 
-- Customer engagement: user reviews, titles, and content 
-- Each row represents a unique product, with aggregated reviewer data stored as comma-separated values 
-    - Total Records: 1,465 
-    - TotalFields: 16 columns
-
 # Tools Used
-Microsoft Excel was the major Software used in completing this project. The Ms. Excel was used for:
-- Data Collection
-- Data Cleaning
-- Data Analysis
-- Data Visualization
+Power BI Desktop was the major Software used in completing this project. The Power BI Desktop was used for:
+- Extracting the Company's HR CSV files
+- Loading the dataset to the canvass for exploration
+- Data Transformation i.e. Data Cleansing
+- Data Modeling and Visualization
 
 # Analysis Tasks
-Using Pivot tables tool in Ms. Excel and calculated columns, answers were provided for the following Questions below: 
-1. What is the average discount percentage by product category? 
-2. How many products are listed under each category? 
-3. What is the total number of reviews per category?  
-4. Which products have the highest average ratings? 
-5. What is the average actual price vs the discounted price by category? 
-6. Which products have the highest number of reviews? 
-7. How many products have a discount of 50% or more? 
-8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)? 
-9. What is the total potential revenue (actual_price × rating_count) by category? 
-10. What is the number of unique products per price range bucket (e.g., <₹200, 
-₹200–₹500, >₹500)?
-11. How does the rating relate to the level of discount? 
-12. How many products have fewer than 1,000 reviews? 
-13. Which categories have products with the highest discounts? 
-14. Identify the top 5 products in terms of rating and number of reviews combined.
+Using the TRanformation tools in Power BI Desktop, answers were provided for the following Questions below: 
+1. What is the gender distribution in the organization? Distil to regions and departments 
+2. Show insights on ratings based on gender 
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management 
+4. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000 
+- Does Palmoria meet this requirement? 
+- Show the pay distribution of employees grouped by a band of $10,000. For example: 
+   - How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
+- Also visualize this by regions.
+
+- From the other dataset handed over that contains rules for making bonus payments and asked you to: 
+  - Calculate the amount to be paid as a bonus to individual employees 
+ - Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
+ - Total amount to be paid out per region and company-wide
 
 # Results
 **N.B: The results for each questions stated above are contained in the AMAZON zIP Folder attached to this project.**
