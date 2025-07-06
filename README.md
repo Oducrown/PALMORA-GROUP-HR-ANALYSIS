@@ -43,7 +43,10 @@ Using the TRanformation tools in Power BI Desktop, answers were provided for the
 
 # Results
 **N.B: The results for each questions stated above are contained in the PALMORA ZIP Folder attached to this project.**
-[PALMORIA.zip](https://github.com/user-attachments/files/21091758/PALMORIA.zip)
+![Dashboard](https://github.com/user-attachments/assets/ea6a7c1f-9fd0-479c-896a-36a7d5eb0874)
+
+
+![Dashboard_2](https://github.com/user-attachments/assets/9f9b8283-13cd-4ef8-9fac-cd11c96db328)
 
 
 Using the cleaned dataset and pivot outputs, an interactive visual model / dashboard was built which summarises the results of each pivoting process on the dataset for this project. A snapshot of the Dashboard is shown below:
