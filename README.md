@@ -44,6 +44,7 @@ Using the TRanformation tools in Power BI Desktop, answers were provided for the
 # Results
 **N.B: The results for each questions stated above are contained in the PALMORA ZIP Folder attached to this project.**
 
+[PALMORIA.zip](https://github.com/user-attachments/files/21091884/PALMORIA.zip)
 
 
 Using the cleaned dataset and visualization tools, an interactive dashboard was built which summarises the results of each pivoting process on the dataset for this project. A snapshot of the Dashboard is shown below:
@@ -54,59 +55,39 @@ Using the cleaned dataset and visualization tools, an interactive dashboard was 
 ![Dashboard_2](https://github.com/user-attachments/assets/9f9b8283-13cd-4ef8-9fac-cd11c96db328)
 
 
-
-
-
-
 # Key Insights from Dashboard Analysis
-1. Rating vs Discount
-   
-**Observation**
-The "Rating vs Discount" radar chart reveals no clear linear trend between discount percentage and product ratings. Some products with discounts above 0.6 (60%) still maintain strong ratings, indicating:
-- Discounts do not significantly lower customer satisfaction.
-- Customers are generally satisfied even when prices are heavily slashed.
-  
-**Implication**
-Retailers can confidently run deep discount campaigns without fear of damaging product reputation, especially for quality products.
+**Palmoria Group HR Analytics Report:** 
+__Tackling Gender Inequality and Pay Compliance__
+__Brief Insights and Interpretations__
 
-2. Average Price vs Discounted Price by Category
-   
-**Observation**
-Across categories like Consumer Electronics, Home & Kitchen, and Office Supplies, there are noticeable gaps between actual prices and discounted values. Some categories show consistently high discount sums.
+**1. Gender Distribution**
 
-**Implication**
-- Certain product categories (e.g., Electronics) are highly competitive, leading to consistent discounting.
-- Price sensitivity is evident; discounts may be necessary to remain relevant.
-  
-3. Highest Average Rated Products
-   
-**Observation**
-The chart indicates that certain categories like Consumer Goods and Electronics dominate the list of products with the highest average ratings.
+The gender distribution at Palmoria is relatively balanced, with 465 male employees (49.15%) and 411 female employees (46.62%). However, department-level analysis reveals gender concentration in certain departments, such as Training and Support, which appear male-dominated, while others like R&D and Sales show better balance.
+This indicates a need to improve gender diversity within specific functional areas.
 
-**Implication:**
-- These categories have the potential for brand loyalty and positive customer perception.
-- Sellers should prioritize these high-performing SKUs in marketing efforts.
-  
-4. Additional Metrics and Findings
-![Table](https://github.com/user-attachments/assets/68dd9b5a-b04f-48f6-9789-be0d36b6bfab)
+**2. Performance Ratings and Gender**
 
+Analysis of performance ratings by gender shows that male employees receive more “Very Good” and “Good” ratings compared to females. In contrast, female employees are more likely to be rated as “Average” or remain “Not Rated.” This disparity raises concerns about potential performance evaluation bias or unequal recognition, warranting a review of the appraisal system.
 
-5. **Business Recommendations**
-   
-1.	Leverage High Ratings + Discounts:
-- Prioritize marketing of highly rated, deeply discounted items to maximize conversions.
-  
-2.	Category Targeting:
-- Focus discounting on price-sensitive categories while maintaining margins in premium segments.
-  
-3.	Enhance Rating Visibility:
-- Use badges, highlight reels, or featured sections to showcase top-rated products in listings.
-  
-4.	Data-Driven Promotions:
-- Launch dynamic pricing models using insights from average rating and review count to fine-tune discount levels.
-  
-**Summary**
-This analysis supports a data-informed approach to optimizing product listings, discounts, and customer satisfaction. The findings show that aggressive discounting can be effective, customer satisfaction remains strong, and category-level dynamics should drive marketing and pricing decisions.
+**3. Gender Pay Gap**
+
+While the overall salary difference between genders is modest (₦76.68K for males vs. ₦74.16K for females), departmental breakdowns highlight deeper disparities:
+- In Sales, males earn ₦175K on average, while females earn ₦150K — a significant ₦25K gap.
+- In Support and Services, male employees also earn more than their female counterparts.
+
+These patterns suggest the presence of a gender pay gap, particularly in revenue-driving departments, requiring urgent attention.
+
+**4. Salary Regulation Compliance**
+
+The average salary across the company is ₦75.8K, which falls below the newly mandated minimum of ₦90,000 for manufacturing companies. This implies that a large portion of Palmoria’s workforce is currently underpaid, in violation of the regulatory requirement. Salary adjustments will be necessary to meet legal compliance and avoid potential sanctions.
+
+**5. Regional Representation**
+
+Current data heavily reflects the Lagos region, with unclear or missing employee data from other regions (e.g., Abuja, Kaduna). This may limit the effectiveness of regional comparisons. Further investigation is needed to validate and include regional diversity in the analysis.
+
+**Conclusion**
+
+Palmoria Group has taken a positive step by initiating this HR analysis. The findings highlight critical issues around gender pay equity, performance fairness, and salary compliance. Addressing these areas will not only improve internal fairness but also strengthen the company’s public image and readiness for expansion.
 
 
 
