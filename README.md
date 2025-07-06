@@ -85,9 +85,11 @@ The average salary across the company is ₦75.8K, which falls below the newly m
 
 Current data heavily reflects the Lagos region, with unclear or missing employee data from other regions (e.g., Abuja, Kaduna). This may limit the effectiveness of regional comparisons. Further investigation is needed to validate and include regional diversity in the analysis.
 
+
 **Conclusion**
 
 Palmoria Group has taken a positive step by initiating this HR analysis. The findings highlight critical issues around gender pay equity, performance fairness, and salary compliance. Addressing these areas will not only improve internal fairness but also strengthen the company’s public image and readiness for expansion.
 
+[Palmoria Group HR Analytics Report Tackling Gender Inequality and Pay Compliance.docx](https://github.com/user-attachments/files/21092065/Palmoria.Group.HR.Analytics.Report.Tackling.Gender.Inequality.and.Pay.Compliance.docx)
 
 
