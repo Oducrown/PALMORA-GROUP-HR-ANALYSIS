@@ -17,7 +17,8 @@ Working on this project has helped me to showcase my ability to analyse critical
 the company’s 
 HR data 
 
-The dataset adopted was PALMORA-GROUP-HR data. [Download Here] 
+The dataset adopted was PALMORA-GROUP-HR data. [Download Here] ([Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21091630/Palmoria.Group.Bonus.Rules.xlsx)
+) ([Uploading Palmoria Group emp-data.csv…])
 
 contains information scraped from Amazon product pages, including: 
 - Product details: name, category, price, discount, and ratings 
